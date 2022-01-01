@@ -7,4 +7,4 @@ Notes on VS 2022
 
 ## Reference
 
-* [Tutorial V 2022](https://docs.microsoft.com/en-us/visualstudio/get-started/tutorial-editor?view=vs-2022)
+* [Tutorial VS 2022](https://docs.microsoft.com/en-us/visualstudio/get-started/tutorial-editor?view=vs-2022)

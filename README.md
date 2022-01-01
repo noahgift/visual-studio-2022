@@ -7,7 +7,7 @@ Notes on VS 2022
 
 ## Build a Console App 
 
-
+* [Code Here](https://github.com/noahgift/visual-studio-2022/blob/main/PhraseCounter/PhraseCounter/Program.cs)
 
 
 

@@ -33,6 +33,9 @@ for (int i = 0; i < count; i++)
 
 ```
 
+* Viewing the output of a console application
+ 
+![images](https://user-images.githubusercontent.com/58792/147853607-121dd934-36d9-4532-beb6-6cbf45db5869.png)
 
 ## Reference
 
